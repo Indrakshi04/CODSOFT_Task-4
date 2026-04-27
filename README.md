@@ -1,4 +1,4 @@
-# CODSOFT_Task-4
+# Task
 
 Task 4 - Recommendation System
 Description: This project is a simple recommendation system that suggests movies based on user preferences.
